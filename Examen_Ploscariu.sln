@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen_Ploscariu", "Examen_Ploscariu.csproj", "{48F5E582-77E1-44C3-953D-5FFA68A208C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{5F697EF3-08B2-41F5-8BA9-B8D154E7FCB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48F5E582-77E1-44C3-953D-5FFA68A208C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F5E582-77E1-44C3-953D-5FFA68A208C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F5E582-77E1-44C3-953D-5FFA68A208C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F5E582-77E1-44C3-953D-5FFA68A208C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F697EF3-08B2-41F5-8BA9-B8D154E7FCB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F697EF3-08B2-41F5-8BA9-B8D154E7FCB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F697EF3-08B2-41F5-8BA9-B8D154E7FCB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F697EF3-08B2-41F5-8BA9-B8D154E7FCB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {557BBE05-AFC1-4106-8E81-78AA5B9DAC48}
+	EndGlobalSection
+EndGlobal
